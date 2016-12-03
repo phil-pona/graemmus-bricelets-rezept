@@ -15,7 +15,7 @@ Folgende Zutaten unter stetigem Rühren in eine Schüssel geben.
 - 1 Prise Salz
 - 100 g Butter flüssig
 
-Teig über Nach ruhen lassen.
+Teig über Nacht ruhen lassen.
 
 ![Teig](images/teig.png)
 
