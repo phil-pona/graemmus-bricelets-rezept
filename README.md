@@ -42,3 +42,7 @@ Teig über Nach ruhen lassen.
 In einer Büchse gut verschlossen ca. 8 Wochen
 
 ![Bricelets](images/bricelets2.png)
+
+# Lizenz 
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
